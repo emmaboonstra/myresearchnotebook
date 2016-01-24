@@ -23,3 +23,18 @@ Gives me some translated headwords, vetting status, and also some original greek
 I'm not quite sure if I've done this 100% correctly so I'm going to double check on Slack(bless the community aspect of this course). 
 
 Talk soon!
+
+
+Update:
+Alright, so I was definitely doing something wrong. I went to slack but ended up figuring it out myself. I left out one small thing that kinda was a big deal, the markers that were mentioned in the workbook. Once I did this, I got the correct excel file I believe. 
+Here you can see the markers: 
+![ss5](https://www.dropbox.com/s/2qien82lxwfahd1/five.png?raw=1)
+I totally forgot to put these in and once I did I got a bunch more info. 
+
+So here is the page on the website: 
+![ss6](https://www.dropbox.com/s/u5blcxmsywjifqz/six.png?raw=1)
+There's a bunch of info but nothing really useful to me. 
+
+Now with the excel file,  I have a file with a bunch of translations that you couldn't otherwise see on the website. It's really helpful and interesting to view all of these next to one another. 
+![ss7](https://www.dropbox.com/s/6t3b80yerywbvwa/Screen%20Shot%202016-01-24%20at%202.00.19%20PM.png?raw=1)
+
